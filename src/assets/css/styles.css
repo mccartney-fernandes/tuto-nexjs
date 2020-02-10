@@ -1,0 +1,27 @@
+@import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+html, body {height:100%;}
+
+.setad a {
+    opacity: 0.7 !important;
+}
+
+.text-links {
+    font-weight: bold !important;
+    font-size: 14pt !important;
+    color: #fff !important;
+}
+
+.text-links:hover {
+    opacity: 0.7 !important;
+}
+
+.text-links:focus {
+    opacity: 0.7 !important;
+}
+
+.text-phone {
+    font-weight: bold !important;
+    font-size: 14pt !important;
+    color: #fff !important;
+}
